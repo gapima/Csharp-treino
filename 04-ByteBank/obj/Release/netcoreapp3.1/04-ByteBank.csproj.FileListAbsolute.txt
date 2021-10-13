@@ -1,0 +1,13 @@
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.exe
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.deps.json
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.runtimeconfig.json
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.runtimeconfig.dev.json
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.dll
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\bin\Release\netcoreapp3.1\04-ByteBank.pdb
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.csprojAssemblyReference.cache
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.AssemblyInfoInputs.cache
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.AssemblyInfo.cs
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.dll
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.pdb
+C:\Users\gapim\source\repos\01-bytebank\04-ByteBank\obj\Release\netcoreapp3.1\04-ByteBank.genruntimeconfig.cache

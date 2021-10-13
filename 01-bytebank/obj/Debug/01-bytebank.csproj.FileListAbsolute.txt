@@ -1,0 +1,7 @@
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\bin\Debug\01-bytebank.exe.config
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\bin\Debug\01-bytebank.exe
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\bin\Debug\01-bytebank.pdb
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\obj\Debug\01-bytebank.csprojAssemblyReference.cache
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\obj\Debug\01-bytebank.csproj.CoreCompileInputs.cache
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\obj\Debug\01-bytebank.exe
+C:\Users\gapim\source\repos\01-bytebank\01-bytebank\obj\Debug\01-bytebank.pdb
